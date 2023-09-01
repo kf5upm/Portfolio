@@ -79,7 +79,7 @@ Technologies:
 - Log4J
 - JPA Persistence
 - MySQL
-- Apache Tomcat EE.
+- Apache Tomcat
 
 ![image](https://github.com/kf5upm/Portfolio/assets/38869645/84204083-f698-4714-a0d6-31c5ef26e471)
 
