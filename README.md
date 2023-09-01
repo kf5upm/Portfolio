@@ -22,6 +22,8 @@ Technologies:
 
 This is a rewrite of a React application that had been purchased in the past, but require hand editing of JSON data to add/modify entries.  I wrote the front end in Angular and the backend using an ASP.NET Web API and Web App with SQLite for database.
 
+Code: Private Repo (Ask)
+
 Technologies:
 - ASP.NET Web API
 - ASP.NET Web Application
@@ -39,6 +41,8 @@ Technologies:
 ### CANIS
 
 CANIS is an SSIS process that uses ETL to process and submit background check requests to DCF for potential foster parents and internally publish the results and return letters for requestors into SharePoint.
+
+Code: Private Repo (Ask)
 
 Technologies:
 - Microsoft SQL Server
@@ -59,6 +63,8 @@ Technologies:
 ### DeltaTrend
 
 DeltaTrend is a Windows background service that collects drive usage information, aggregates drive, folder, and file size data, and submits it to a web API for storage and use inside of a dashboard application.
+
+Code: Private Repo (Ask)
 
 Technologies:
 - Microsoft Windows Service Host
