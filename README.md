@@ -4,7 +4,7 @@
 
 ### UAD
 Simple Active Directory User Administration Dashboard
-A simple WPF desktop application that was originally started to be an all in one tool for the helpdesk agents that did not have direct access to the tools for these operations. Before I finished it they decided to go another route and use ADAC instead so this application was shelved.
+A simple WPF desktop application that was originally started to be an all in one tool for the helpdesk agents that did not have direct access to the tools for these operations.
 
 Technologies:
 - DotNet Core 6
