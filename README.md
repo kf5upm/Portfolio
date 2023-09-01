@@ -4,7 +4,12 @@
 
 ### UAD
 Simple Active Directory User Administration Dashboard
-A simple desktop application that was originally started to be an all in one tool for the helpdesk agents that did not have direct access to the tools for these operations. Before I finished it they decided to go another route and use ADAC instead so this application was shelved.
+A simple WPF desktop application that was originally started to be an all in one tool for the helpdesk agents that did not have direct access to the tools for these operations. Before I finished it they decided to go another route and use ADAC instead so this application was shelved.
+
+Technologies:
+- DotNet Core 6
+- WPF
+- Microsoft Active Directory
 
 ![image](https://github.com/kf5upm/Portfolio/assets/38869645/8b14eba5-3c88-4e4c-9144-61ee0604d562)
 
@@ -12,7 +17,13 @@ A simple desktop application that was originally started to be an all in one too
 
 ### SFM-Apps-Page
 
-This is a rewrite of a React application that had been purchased in the past, but require hand editing of JSON data to add/modify entries.  I wrote the front end in Angular and the backend using a C# Web App and API based on an SQLite database.
+This is a rewrite of a React application that had been purchased in the past, but require hand editing of JSON data to add/modify entries.  I wrote the front end in Angular and the backend using an ASP.NET Web API and Web App with SQLite for database.
+
+Technologies:
+- ASP.NET Web API
+- ASP.NET Web Application
+- Angular
+- SQLite
 
 ![image](https://github.com/kf5upm/SFM-Apps-Page/assets/38869645/b24d7046-c3a2-427d-adf8-353268b30756)
 
@@ -25,6 +36,12 @@ This is a rewrite of a React application that had been purchased in the past, bu
 ### CANIS
 
 CANIS is an SSIS process that uses ETL to process and submit background check requests to DCF for potential foster parents and internally publish the results and return letters for requestors into SharePoint.
+
+Technologies:
+- Microsoft SQL Server
+- Microsoft SQL Server Integration Services
+- SFTP
+- SharePoint
 
 ![image](https://github.com/kf5upm/CANIS/assets/38869645/57525d79-02e7-4bef-9220-0b23f5f11027)
 
@@ -40,6 +57,12 @@ CANIS is an SSIS process that uses ETL to process and submit background check re
 
 DeltaTrend is a Windows background service that collects drive usage information, aggregates drive, folder, and file size data, and submits it to a web API for storage and use inside of a dashboard application.
 
+Technologies:
+- Microsoft Windows Service Host
+- WIN32 API
+- Microsoft NTFS MFT
+- WiX Toolset (Installer)
+
 ** No screenshots **
 
 https://github.com/LWHI/DeltaTrend
@@ -49,4 +72,19 @@ https://github.com/LWHI/DeltaTrend
 ### Capstone
 
 This is the Capstone project from a Java class one of my co-workers was taking.  I decided to do the project for fun after he told me about his assignment.
+
+Technologies:
+- Java EE
+- Maven
+- Log4J
+- JPA Persistence
+- MySQL
+- Apache Tomcat EE.
+
+![image](https://github.com/kf5upm/Portfolio/assets/38869645/84204083-f698-4714-a0d6-31c5ef26e471)
+
+... MORE COMING SOON! ...
+
+
+
 
