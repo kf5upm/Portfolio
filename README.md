@@ -3,8 +3,11 @@
 ## C# Projects
 
 ### UAD
+
 Simple Active Directory User Administration Dashboard
 A simple WPF desktop application that was originally started to be an all in one tool for the helpdesk agents that did not have direct access to the tools for these operations.
+
+Code:  https://github.com/kf5upm/UAD
 
 Technologies:
 - DotNet Core 6
@@ -72,6 +75,8 @@ https://github.com/LWHI/DeltaTrend
 ### Capstone
 
 This is the Capstone project from a Java class one of my co-workers was taking.  I decided to do the project for fun after he told me about his assignment.
+
+Code:  https://github.com/kf5upm/CapstoneProject
 
 Technologies:
 - Java EE
